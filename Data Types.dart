@@ -4,6 +4,8 @@ void main() {
   int num1 = 5000;
   double num2 = 2500.6768;
   double Amount = num1 + num2;
+  String course = 'Softwarer engineering';
+  print("I am pursuing Bachelor of science in $course");
   print("The sum is $Amount");
   //string data types
   String name = 'Bradley';
